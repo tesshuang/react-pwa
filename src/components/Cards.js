@@ -34,7 +34,35 @@ class Cards extends React.Component {
         year: 2020,
         info: 'Amy is a freelandcer living in Portland.',
         friend: 12,
-      }
+      },
+      {
+        id: 5,
+        name: 'Jay',
+        year: 2010,
+        info: 'Jay is a teacher living in Seatle.',
+        friend: 12,
+      },
+      {
+        id: 6,
+        name: 'Rob',
+        year: 2012,
+        info: 'Rob is a developer living in Portland.',
+        friend: 18,
+      },
+      {
+        id: 7,
+        name: 'Tam',
+        year: 2015,
+        info: 'Tam is a designer living in Vancouver.',
+        friend: 15,
+      },
+      {
+        id: 8,
+        name: 'Bob',
+        year: 2016,
+        info: 'Amy is a freelandcer living in Austin.',
+        friend: 12,
+      },
     ]
    }
   render() { 

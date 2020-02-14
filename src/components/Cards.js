@@ -3,6 +3,9 @@ import SampleCard from './SampleCard';
 
 const wrapperStyle = {
   display: 'flex',
+  flexWrap: 'wrap',
+  maxWidth: '1200px',
+  margin: 'auto'
 }
 class Cards extends React.Component {
   state = { 
